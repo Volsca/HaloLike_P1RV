@@ -1,5 +1,6 @@
 
 #include <iostream>
+#include <GL/GL.h>
 
 int main()
 {
